@@ -1,0 +1,2 @@
+The dataset can be downloaded from:
+https://www.kaggle.com/c/petfinder-pawpularity-score/data
